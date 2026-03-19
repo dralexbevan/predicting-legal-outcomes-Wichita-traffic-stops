@@ -1,4 +1,4 @@
-# predicting-legal-outcomes-Wichita-traffic-stops
+# Predicting Legal Outcomes for Traffic Citations in Wichita KS, 2018-2020
 The project will explored traffic citations and dispositions from those citations using data from the Stanford Open Policing Project for Wichita, Kansas. The core question we aim to answer is: does subject demographic information (race, sex and/or age) have an effect on the severity of dispositions resulting from a citation. 
 
 # Team: Dr Alex Bevan, Akshaya Ganesh, Ryan Abdelrahim
