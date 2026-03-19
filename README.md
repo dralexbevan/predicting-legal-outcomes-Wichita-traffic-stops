@@ -3,8 +3,7 @@ The project will explored traffic citations and dispositions from those citation
 
 # Team: Dr Alex Bevan, Akshaya Ganesh, Ryan Abdelrahim
 
-# Objective:
-The objective is to provide a clear, data-driven solution to the question posed above.
+
 
 # Data Description:
 The dataset comes from the Stanford Open Policing Project (OPP), which has compiled over 200 million traffic stop records from across the United States. The dataset for Wichita, KS contains 1 million records from 2006 through 2020 (2017 excluded) along with 22 variables. Variables from the dataset were used to derive more informational predictors listed here:
